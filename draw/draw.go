@@ -9,9 +9,9 @@
 package draw
 
 import (
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
-	"github.com/drswork/image/internal/imageutil"
+	"github.com/Coder-na-r1/image"
+	"github.com/Coder-na-r1/image/color"
+	"github.com/Coder-na-r1/image/internal/imageutil"
 )
 
 // m is the maximum color value returned by image.Color.RGBA.

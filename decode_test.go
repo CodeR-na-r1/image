@@ -11,12 +11,12 @@ import (
 	"os"
 	"testing"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
+	"github.com/Coder-na-r1/image"
+	"github.com/Coder-na-r1/image/color"
 
-	_ "github.com/drswork/image/gif"
-	_ "github.com/drswork/image/jpeg"
-	_ "github.com/drswork/image/png"
+	_ "github.com/Coder-na-r1/image/gif"
+	_ "github.com/Coder-na-r1/image/jpeg"
+	_ "github.com/Coder-na-r1/image/png"
 )
 
 type imageTest struct {

@@ -5,8 +5,8 @@
 package draw
 
 import (
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
+	"github.com/Coder-na-r1/image"
+	"github.com/Coder-na-r1/image/color"
 	"reflect"
 	"testing"
 )

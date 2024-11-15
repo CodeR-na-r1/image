@@ -5,7 +5,7 @@
 package draw
 
 import (
-	"github.com/drswork/image"
+	"github.com/Coder-na-r1/image"
 	"testing"
 )
 

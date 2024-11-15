@@ -12,7 +12,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/drswork/image"
+	"github.com/Coder-na-r1/image"
 
 	// Package image/jpeg is not used explicitly in the code below,
 	// but is imported for its initialization side-effect, which allows
@@ -20,7 +20,7 @@ import (
 	// two lines to also understand GIF and PNG images:
 	// _ "image/gif"
 	// _ "image/png"
-	_ "github.com/drswork/image/jpeg"
+	_ "github.com/Coder-na-r1/image/jpeg"
 )
 
 func Example_decodeConfig() {

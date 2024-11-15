@@ -12,9 +12,9 @@ import (
 	"errors"
 	"io"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
-	"github.com/drswork/image/internal/imageutil"
+	"github.com/Coder-na-r1/image"
+	"github.com/Coder-na-r1/image/color"
+	"github.com/Coder-na-r1/image/internal/imageutil"
 )
 
 // TODO(nigeltao): fix up the doc comment style so that sentences start with

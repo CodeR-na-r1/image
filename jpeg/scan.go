@@ -7,7 +7,7 @@ package jpeg
 import (
 	"context"
 
-	"github.com/drswork/image"
+	"github.com/Coder-na-r1/image"
 )
 
 // makeImg allocates and initializes the destination image.

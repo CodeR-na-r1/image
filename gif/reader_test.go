@@ -16,9 +16,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
-	"github.com/drswork/image/color/palette"
+	"github.com/Coder-na-r1/image"
+	"github.com/Coder-na-r1/image/color"
+	"github.com/Coder-na-r1/image/color/palette"
 )
 
 // header, palette and trailer are parts of a valid 2x1 GIF image.

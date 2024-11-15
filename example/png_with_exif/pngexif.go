@@ -1,4 +1,3 @@
-//
 package main
 
 import (
@@ -7,11 +6,11 @@ import (
 	"log"
 	"os"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/png"
+	"github.com/Coder-na-r1/image"
+	"github.com/Coder-na-r1/image/png"
 
 	// Make sure the exif metadata decoder is loaded
-	_ "github.com/drswork/image/metadata/exif"
+	_ "github.com/Coder-na-r1/image/metadata/exif"
 )
 
 func main() {

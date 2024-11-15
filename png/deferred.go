@@ -5,8 +5,8 @@ import (
 	"context"
 	"hash/crc32"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
+	"github.com/Coder-na-r1/image"
+	"github.com/Coder-na-r1/image/color"
 )
 
 // Deferred holds a PNG image that hasn't yet been parsed. It proxies

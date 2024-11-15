@@ -5,7 +5,7 @@
 package image
 
 import (
-	"github.com/drswork/image/color"
+	"github.com/Coder-na-r1/image/color"
 	"strconv"
 )
 

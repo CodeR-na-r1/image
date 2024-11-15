@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
-	"github.com/drswork/image/metadata"
+	"github.com/Coder-na-r1/image"
+	"github.com/Coder-na-r1/image/color"
+	"github.com/Coder-na-r1/image/metadata"
 )
 
 // List of known metadata bits and the segments they appear in.

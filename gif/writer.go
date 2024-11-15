@@ -11,10 +11,10 @@ import (
 	"errors"
 	"io"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
-	"github.com/drswork/image/color/palette"
-	"github.com/drswork/image/draw"
+	"github.com/Coder-na-r1/image"
+	"github.com/Coder-na-r1/image/color"
+	"github.com/Coder-na-r1/image/color/palette"
+	"github.com/Coder-na-r1/image/draw"
 )
 
 // Graphic control extension fields.

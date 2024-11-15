@@ -17,8 +17,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
+	"github.com/Coder-na-r1/image"
+	"github.com/Coder-na-r1/image/color"
 )
 
 func diff(m0, m1 image.Image) error {

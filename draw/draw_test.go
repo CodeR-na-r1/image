@@ -10,9 +10,9 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
-	"github.com/drswork/image/png"
+	"github.com/Coder-na-r1/image"
+	"github.com/Coder-na-r1/image/color"
+	"github.com/Coder-na-r1/image/png"
 )
 
 func eq(c0, c1 color.Color) bool {
